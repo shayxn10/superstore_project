@@ -4,7 +4,7 @@
 
 
 
-👉 https://public.tableau.com/app/profile/shayan.rehman/viz/superstore\_17790493311180/Dashboard1
+👉https://public.tableau.com/app/profile/shayan.rehman/viz/superstore_17790493311180/Dashboard1
 
 
 
@@ -142,8 +142,7 @@ Product Performance Overview
 
 👉 Live Dashboard:
 
-https://public.tableau.com/app/profile/shayan.rehman/viz/superstore\_17790493311180/Dashboard1
-
+https://public.tableau.com/app/profile/shayan.rehman/viz/superstore_17790493311180/Dashboard1
 
 
 🧠 Key Business Insights
